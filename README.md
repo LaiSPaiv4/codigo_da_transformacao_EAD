@@ -2,7 +2,7 @@
 
 Nosso primeiro repositorio do Código da Transformação
 
-## Paticipantes
+## Participantes
 
 Henrique;
 Lais;
