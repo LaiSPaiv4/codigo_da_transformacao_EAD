@@ -1,4 +1,4 @@
-# 🐍🔍codigo_da_transformacao-EAD 
+# 🐍🔍Lais_codigo_da_transformacao-EAD 
 Nosso primeiro repositorio do Código da Transformação
 
 ## Participantes/Tema 👥
